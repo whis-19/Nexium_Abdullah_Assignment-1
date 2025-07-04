@@ -109,4 +109,4 @@ export async function PUT(request) {
 export async function PATCH(request) {
   // PATCH behaves like PUT but only updates provided fields
   return PUT(request);
-} 
+}
