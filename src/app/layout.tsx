@@ -16,7 +16,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                         </div>
                     </main>
                     <footer className="bg-gradient-to-r from-blue-800 to-purple-700 text-gray-200 p-4 text-center text-xs tracking-wide shadow-inner">
-                        <p>&copy; {new Date().getFullYear()} Quote Generator &mdash; Made with <span className="text-pink-400">♥</span> for inspiration</p>
+                        <p>&copy; {new Date().getFullYear()} Quote Generator &mdash; Made by <span className="text-green-400">Whis</span></p>
                     </footer>
                 </div>
             </body>
