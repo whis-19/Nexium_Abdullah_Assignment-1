@@ -36,8 +36,8 @@ quote-generator-app
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd quote-generator-app
+   git clone https://github.com/whis-19/nexium_abdullah_assignment-1.git
+   cd nexium_abdullah_assignment-1.git
    ```
 
 2. Install the dependencies:
@@ -62,7 +62,3 @@ This application can be deployed to Vercel. Simply connect your GitHub repositor
 1. Enter a topic in the input field.
 2. Click the submit button to generate quotes.
 3. View the displayed quotes related to the entered topic.
-
-## License
-
-This project is licensed under the MIT License.
